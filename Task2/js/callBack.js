@@ -6,8 +6,7 @@ The following resources were used to complete this assignment:
  - https://www.youtube.com/watch?v=FD7fnqkBV9w
 For more information about this please visit https://github.com/IronMike4/higher_order_functions_callbacks.git */
 
-// Setting variables to hold the intervalID
-// and also a counter
+// Setting variables to hold the intervalID and also a counter
 let intervalID;
 let counter = 0;
 
